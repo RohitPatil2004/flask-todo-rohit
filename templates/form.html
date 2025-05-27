@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Sumbit Data</title>
+    </head>
+    <body>
+        <h2>submit your info</h2>
+        {%if error%}
+        <form method="post">
+            Name: <input type="text" name="name" required><br><br>
+            Email: <input type="email" name="email" required><br><br>
+            <input type="submit" value="Sumbit">
+        </form>
+    </body>
+</html>

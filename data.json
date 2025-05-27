@@ -1,5 +1,9 @@
-[
-    {"name":"Rohit","email":"rohitvpatil04@gmail.com"},
-    {"name":"Om","email":"omvpatil02@gmail.com"},
-    {"name":"Vijay","email":"vijaypatil44@gmail.com"}
-]
+{
+    "todo":[
+        {
+            "id":1,
+            "task":"Write Backend",
+            "Status":"pending"
+        }
+    ]
+}
